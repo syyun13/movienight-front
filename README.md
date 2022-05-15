@@ -12,3 +12,5 @@ Frontend was built with React.js and backend was built with AWS RDS, Lambda, and
 
 This Github repo is linked to AWS CodePipeline so that it automatically deploys on S3 bucket when a new commit is pushed to the master branch.
 
+
+[Go to Movie Night](http://ccfinalprojectbucket.s3-website-us-east-1.amazonaws.com/)
